@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"example.com/pkg/websocket"
+	"github.com/React-Go-Chat-App-Backend/pkg/websocket"
 )
 
 func serveWs(pool *websocket.Pool, w http.ResponseWriter, r *http.Request) {
