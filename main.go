@@ -44,5 +44,5 @@ func main() {
 		port = "8000"
 	}
 	setupRoutes()
-	http.ListenAndServe(":" + port)
+	http.ListenAndServe(":" + port, nil)
 }
