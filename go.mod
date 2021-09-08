@@ -1,4 +1,4 @@
-module github.com/React-Go-Chat-App-Backend/pkg/websocket
+module github.com/rajatsaini736/React-Go-Chat-App-Backend
 
 go 1.16
 
