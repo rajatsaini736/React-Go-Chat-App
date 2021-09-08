@@ -1,4 +1,4 @@
-module example.com
+module github.com/React-Go-Chat-App-Backend/pkg/websocket
 
 go 1.16
 
